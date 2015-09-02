@@ -1,0 +1,12 @@
+clutils for Debian
+------------------
+
+Clutils is a set of C++ utilities intended to ease some common tasks faced
+by C++ programmers.  These include a configuration file parser, argument
+parser, string-based hash map, file management class, and a module loader.
+
+
+This package was first Debianized by Dale Martin on 12/31/2003.
+
+Dale E. Martin <dmartin@cliftonlabs.com>, Wed Dec 31 11:06:18 EST 2003
+

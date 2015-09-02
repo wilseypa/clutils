@@ -1,0 +1,15 @@
+Makefile
+Makefile.in
+.deps
+config.h
+regressionTest
+ConfigurationLexer.h
+ConfigurationLexer.cpp
+ConfigurationParser.cpp
+ConfigurationParserHandle.cpp
+ConfigurationParserHandle.h
+parser.dlg
+tokens.h
+DLexerBase.cpp
+ATokenBuffer.cpp
+AParser.cpp

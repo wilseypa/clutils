@@ -1,0 +1,10 @@
+#ifndef CLUTILS_CONFIG_H
+#define CLUTILS_CONFIG_H
+
+/* Define to 1 if you have the <ext/hash_map> header file. */
+#undef HAVE_EXT_HASH_MAP
+
+/* Define to 1 if you have the <hash_map> header file. */
+#undef HAVE_HASH_MAP
+
+#endif

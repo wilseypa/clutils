@@ -1,0 +1,71 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+/* config.h.in.  Generated automatically from configure.in by autoheader.  */
+
+/* Define if you have the <AToken.h> header file. */
+#undef HAVE_ATOKEN_H
+
+/* Define if you have the <ext/hash_map> header file. */
+#undef HAVE_EXT_HASH_MAP
+
+/* Define if you have the <hash_map> header file. */
+#undef HAVE_HASH_MAP
+
+/* Define if you have the <inttypes.h> header file. */
+#undef HAVE_INTTYPES_H
+
+/* Define if you have the `' library (-l). */
+#undef HAVE_LIB
+
+/* Define if you have the <memory.h> header file. */
+#undef HAVE_MEMORY_H
+
+/* Define if you have the `mkdir' function. */
+#undef HAVE_MKDIR
+
+/* Define if you have the <pccts/AToken.h> header file. */
+#undef HAVE_PCCTS_ATOKEN_H
+
+/* Define if you have the <stdlib.h> header file. */
+#undef HAVE_STDLIB_H
+
+/* Define if you have the `strdup' function. */
+#undef HAVE_STRDUP
+
+/* Define if you have the <strings.h> header file. */
+#undef HAVE_STRINGS_H
+
+/* Define if you have the <string.h> header file. */
+#undef HAVE_STRING_H
+
+/* Define if you have the <unistd.h> header file. */
+#undef HAVE_UNISTD_H
+
+/* Name of package */
+#undef PACKAGE
+
+/* Define as the return type of signal handlers (`int' or `void'). */
+#undef RETSIGTYPE
+
+/* The size of a `long int', as computed by sizeof. */
+#undef SIZEOF_LONG_INT
+
+/* The size of a `long long int', as computed by sizeof. */
+#undef SIZEOF_LONG_LONG_INT
+
+/* Define if you have the ANSI C header files. */
+#undef STDC_HEADERS
+
+/* Define if your <sys/time.h> declares `struct tm'. */
+#undef TM_IN_SYS_TIME
+
+/* Version number of package */
+#undef VERSION
+
+/* Define to empty if `const' does not conform to ANSI C. */
+#undef const
+
+/* Define to `int' if <sys/types.h> does not define. */
+#undef mode_t
+#endif

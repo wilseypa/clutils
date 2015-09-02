@@ -1,0 +1,9 @@
+#!/bin/sh
+
+if [ "$1" = "configure" ]; then
+ if [ -d /usr/doc -a ! -e /usr/doc/libclutils0-dev -a -d /usr/share/doc/libclutils0-dev ]; then
+  ln -sf ../share/doc/libclutils0-dev /usr/doc/libclutils0-dev
+ fi
+fi
+
+#DEBHELPER#

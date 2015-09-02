@@ -1,0 +1,4 @@
+Define the environment variable PCCTSROOT to point at the location of the
+PCCTS header files.  When pccts is unpacked, this is the "h" subdirectory.
+Often if you've installed from a package, they'll be in something like
+/usr/include/pccts or /usr/local/include/pccts.

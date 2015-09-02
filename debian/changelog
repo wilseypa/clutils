@@ -1,0 +1,12 @@
+clutils (20031216-1) unstable; urgency=low
+
+  * Initial Release.
+  * automake had replaced the LGPL upstream with the GPL.  I fixed that in
+    this package as well as in the CVS upstream.  I'll cut a new upstream
+    release shortly.
+  * Closes: Bug#191531
+
+ -- Dale E Martin <dmartin@cliftonlabs.com>  Wed, 31 Dec 2003 15:16:55 -0500
+
+Local variables:
+End:
